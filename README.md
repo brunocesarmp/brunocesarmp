@@ -1,6 +1,6 @@
-## Hi there, I'm Bruno César 👋
+## Hi there, I'm Bruno César!
 
-I’m currently working at SGSCo, allocated at Renault Team Brazil, in Marketing and Aftersale department.
+I’m currently working at Ame Digital.
 
 Here you'll find codes from courses, personal projects, and others things.
 
