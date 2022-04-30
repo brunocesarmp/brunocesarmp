@@ -1,7 +1,5 @@
 ## Hi there, I'm Bruno César!
 
-I’m currently working at Ame Digital.
-
 Here you'll find codes from courses, personal projects, and others things.
 
 Enjoy it!
